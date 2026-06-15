@@ -30,3 +30,9 @@ Current focus areas:
 - PostgreSQL on Kubernetes
 - Prometheus and Grafana monitoring
 - Linux troubleshooting
+
+## Next step
+I'm practicing with:
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+</p>
