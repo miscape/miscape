@@ -44,11 +44,5 @@ Current focus areas:
 ## Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,kubernetes,docker,git,bash,vscode,postgres,keycloa,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,openstack,bash,kubernetes,docker,git" />
 </p>
-
-Additional tools and platforms I often work with:
-
-```text
-Kubernetes · Helm · Argo CD · Vault · Keycloak · PostgreSQL · Prometheus · Grafana
-NFS · CSI Storage · containerd · Calico · Ubuntu Server · Bash · GitOps
