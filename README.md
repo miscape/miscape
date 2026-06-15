@@ -1,20 +1,20 @@
-<p align="center">
-  <img src="m2.png" alt="Mirko Scapellato" width="160" />
+<img align="left" src="avatar.png" alt="Mirko Scapellato" width="200" />
+
+<h3>Hi, I'm Mirko Scapellato</h3>
+
+<p>
+  <strong>Kubernetes Administrator · Linux Systems</strong>
 </p>
 
-<h1 align="center">Hi, I'm Mirko Scapellato</h1>
-
-<p align="center">
-  <b>Kubernetes Administrator · Linux Systems</b>
+<p>
+  I build and document practical labs around Kubernetes, Helm, GitOps,<br>
+  observability, secrets management and Linux troubleshooting.
 </p>
 
-<p align="center">
-  I build and document practical labs around Kubernetes, Helm, GitOps, observability, secrets management and Linux troubleshooting.
-</p>
-
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=ubuntu,openstack,bash,kubernetes,docker,git" />
 </p>
+
 
 ## About me
 
@@ -31,4 +31,4 @@ Current focus areas:
 - Keycloak identity labs
 - PostgreSQL on Kubernetes
 - Prometheus and Grafana monitoring
-- Linux troubleshooting and SRE-style exercises
+- Linux troubleshooting
