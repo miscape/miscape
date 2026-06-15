@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./m2.png" alt="Mirko Scapellato" width="160" />
+  <img src="m2.png" alt="Mirko Scapellato" width="160" />
 </p>
 
 <h1 align="center">Hi, I'm Mirko Scapellato</h1>
