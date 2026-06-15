@@ -1,4 +1,4 @@
-<img align="left" src="avatar.png" alt="Mirko Scapellato" width="200" />
+<img align="left" src="avatar.png" alt="Mirko Scapellato" width="140" />
 
 <h3>Hi, I'm Mirko Scapellato</h3>
 
