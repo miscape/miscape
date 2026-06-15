@@ -44,7 +44,7 @@ Current focus areas:
 ## Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kubernetes,docker,git,github,gitlab,bash,vscode,postgres,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,kubernetes,docker,git,bash,vscode,postgres,keycloa,prometheus,grafana" />
 </p>
 
 Additional tools and platforms I often work with:
