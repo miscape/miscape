@@ -1,6 +1,4 @@
-<img align="left" src="avatar.png" alt="Mirko Scapellato" width="180" />
-
-<h3>Hi, I'm Mirko Scapellato</h3>
+<h2>Hi, I'm Mirko Scapellato</h2>
 
 <p>
   <strong>Kubernetes Administrator · Linux Systems</strong>
