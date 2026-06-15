@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="./assets/profile.png" alt="Mirko Scapellato" width="160" />
+</p>
+
 <h1 align="center">Hi, I'm Mirko Scapellato</h1>
 
 <p align="center">
-  <b>Platform Engineer · Kubernetes Administrator · Linux Systems</b>
+  <b>Kubernetes Administrator · Linux Systems</b>
 </p>
 
 <p align="center">
@@ -9,18 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/miscape?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Kubernetes%20Labs-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/miscape/sadservers-solutions">
-    <img src="https://img.shields.io/badge/Linux-Troubleshooting-black?style=for-the-badge&logo=linux" />
-  </a>
-  <a href="https://github.com/miscape/k8s-vault-pg-kc">
-    <img src="https://img.shields.io/badge/Helm-Labs-0F1689?style=for-the-badge&logo=helm" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ubuntu,openstack,bash,kubernetes,docker,git" />
 </p>
-
----
 
 ## About me
 
@@ -38,11 +32,3 @@ Current focus areas:
 - PostgreSQL on Kubernetes
 - Prometheus and Grafana monitoring
 - Linux troubleshooting and SRE-style exercises
-
----
-
-## Tech stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,openstack,bash,kubernetes,docker,git" />
-</p>
