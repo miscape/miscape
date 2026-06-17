@@ -1,4 +1,4 @@
-<h2>Hi, I'm Mirko Scapellato</h2>
+<h2>Hi, I'm Mirko</h2>
 
 <p>
   <strong>Kubernetes Administrator · Linux Systems</strong>
